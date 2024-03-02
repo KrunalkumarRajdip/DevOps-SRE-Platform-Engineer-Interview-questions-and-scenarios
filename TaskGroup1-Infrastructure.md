@@ -2,8 +2,7 @@
 
 <img width="788" alt="Screenshot 2022-06-28 at 21 18 56" src="https://user-images.githubusercontent.com/20538426/176267242-f5c6dc16-8320-4473-a8b6-3fcd36ce3336.png">
 
-The above diagram show the abstract understanding of the DB cluster which is shared between environments/teams/bussiness units. Modern day public cloud providers are
-providing managed services that stores the data with encryption in rest.
+The above diagram shows the abstract understanding of the DB cluster which is shared between environments/teams/bussiness units. Modern day public cloud providers are providing managed services that stores the data with encryption at rest.
 
 ### Here we are assuming different scenarios to implement or propose the solution:
 
